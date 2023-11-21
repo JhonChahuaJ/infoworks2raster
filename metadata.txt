@@ -1,0 +1,47 @@
+# This file contains metadata for your plugin.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=Resultados - Infoworks ICM
+qgisMinimumVersion=3.0
+description=Rasteriza resultados de Infoworks ICM
+version=0.1
+author=Jhon E. Chahua Janampa
+email=chahua.evar@gmail.com
+
+about=Versión beta para rasterizar alturas y velocidades máximas del shapefile de Infoworks ICM. Carga el shp (2D Zones), elige la resolución, coloca la ruta y coloca el nombre.
+
+tracker=https://jhonchahuaj.github.io/
+repository=https://jhonchahuaj.github.io/
+# End of mandatory metadata
+
+# Recommended items:
+
+hasProcessingProvider=no
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=Infoworks-ICM, Hidráulica, Ingeniería
+
+homepage=https://jhonchahuaj.github.io/
+category=Plugins
+icon=icon.png
+# experimental flag
+experimental=False
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
+# Since QGIS 3.8, a comma separated list of plugins to be installed
+# (or upgraded) can be specified.
+# Check the documentation for more information.
+# plugin_dependencies=
+
+Category of the plugin: Raster, Vector, Database or Web
+# category=
+
+# If the plugin can run on QGIS Server.
+server=False
+

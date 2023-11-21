@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Infoworks2raster" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
